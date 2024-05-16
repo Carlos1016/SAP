@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|c:\\users\\administrator\\source\\repos\\sap\\logicab1\\winforms\\listamateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|solutionrelative:winforms\\listamateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\winforms\\listamateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|solutionrelative:winforms\\listamateriales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\winforms\\st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|solutionrelative:winforms\\st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\winforms\\coti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|solutionrelative:winforms\\coti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\WinForms.csproj|C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\winforms\\coti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\WinForms.csproj|solutionrelative:winforms\\coti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\winforms\\st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|solutionrelative:winforms\\st.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\WinForms.csproj|C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\winforms\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\WinForms.csproj|solutionrelative:winforms\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\WinForms.csproj|C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\WinForms.csproj|solutionrelative:winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\winforms\\stock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34AFC48F-BEDE-4506-8858-E0DAE8E029D6}|WinForms\\B1S.csproj|solutionrelative:winforms\\stock.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListaMateriales.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\ListaMateriales.cs",
+              "RelativeDocumentMoniker": "WinForms\\ListaMateriales.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\ListaMateriales.cs",
+              "RelativeToolTip": "WinForms\\ListaMateriales.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAhwDAAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:32:42.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaMateriales.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\ListaMateriales.cs",
+              "RelativeDocumentMoniker": "WinForms\\ListaMateriales.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\ListaMateriales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinForms\\ListaMateriales.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:32:35.345Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ST.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\ST.cs",
+              "RelativeDocumentMoniker": "WinForms\\ST.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\ST.cs",
+              "RelativeToolTip": "WinForms\\ST.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAASwEEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:28:17.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ST.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\ST.cs",
+              "RelativeDocumentMoniker": "WinForms\\ST.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\WinForms\\ST.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinForms\\ST.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:27:58.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coti.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\Coti.cs",
+              "RelativeDocumentMoniker": "WinForms\\Coti.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\Coti.cs",
+              "RelativeToolTip": "WinForms\\Coti.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAASwEIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:24:16.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coti.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\Coti.cs",
+              "RelativeDocumentMoniker": "WinForms\\Coti.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\WinForms\\Coti.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinForms\\Coti.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:07:53.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stock.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\Stock.cs",
+              "RelativeDocumentMoniker": "WinForms\\Stock.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\WinForms\\Stock.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinForms\\Stock.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T04:28:49.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stock.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\Stock.Designer.cs",
+              "RelativeDocumentMoniker": "WinForms\\Stock.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\Stock.Designer.cs",
+              "RelativeToolTip": "WinForms\\Stock.Designer.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAuwJIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T04:26:17.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\WinForms\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinForms\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T02:42:33.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

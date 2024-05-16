@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\bin\Release\net8.0\LogicaB1.deps.json
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\bin\Release\net8.0\LogicaB1.dll
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\bin\Release\net8.0\LogicaB1.pdb
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\obj\Release\net8.0\LogicaB1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\obj\Release\net8.0\LogicaB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\obj\Release\net8.0\LogicaB1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\obj\Release\net8.0\LogicaB1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\obj\Release\net8.0\LogicaB1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\obj\Release\net8.0\LogicaB1.sourcelink.json
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\obj\Release\net8.0\LogicaB1.dll
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\obj\Release\net8.0\refint\LogicaB1.dll
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\obj\Release\net8.0\LogicaB1.pdb
+C:\Users\Administrator\source\repos\SAP\LogicaB1\LogicaB1\obj\Release\net8.0\ref\LogicaB1.dll

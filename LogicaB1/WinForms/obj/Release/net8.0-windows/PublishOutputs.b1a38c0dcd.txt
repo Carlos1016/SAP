@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\SAP\LogicaB1\WinForms\bin\Release\net8.0-windows\app.publish\B1S.exe
+C:\Users\Administrator\source\repos\SAP\LogicaB1\WinForms\bin\Release\net8.0-windows\app.publish\B1S.dll
+C:\Users\Administrator\source\repos\SAP\LogicaB1\WinForms\bin\Release\net8.0-windows\app.publish\B1S.deps.json
+C:\Users\Administrator\source\repos\SAP\LogicaB1\WinForms\bin\Release\net8.0-windows\app.publish\B1S.runtimeconfig.json
+C:\Users\Administrator\source\repos\SAP\LogicaB1\WinForms\bin\Release\net8.0-windows\app.publish\B1S.pdb
+C:\Users\Administrator\source\repos\SAP\LogicaB1\WinForms\bin\Release\net8.0-windows\app.publish\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\SAP\LogicaB1\WinForms\bin\Release\net8.0-windows\app.publish\LogicaB1.dll
+C:\Users\Administrator\source\repos\SAP\LogicaB1\WinForms\bin\Release\net8.0-windows\app.publish\LogicaB1.pdb

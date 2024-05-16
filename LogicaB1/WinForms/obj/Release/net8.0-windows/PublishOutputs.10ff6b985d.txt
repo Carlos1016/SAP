@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Parsema\WinForms.exe
+C:\Users\Administrator\Desktop\Parsema\WinForms.dll
+C:\Users\Administrator\Desktop\Parsema\WinForms.deps.json
+C:\Users\Administrator\Desktop\Parsema\WinForms.runtimeconfig.json
+C:\Users\Administrator\Desktop\Parsema\WinForms.pdb
+C:\Users\Administrator\Desktop\Parsema\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Parsema\LogicaB1.dll
+C:\Users\Administrator\Desktop\Parsema\LogicaB1.pdb
