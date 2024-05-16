@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = B1S
-build_property.ProjectDir = C:\Users\Administrator\source\repos\Sap\LogicaB1\WinForms\
+build_property.ProjectDir = C:\Users\Administrator\source\repos\SAP\LogicaB1\WinForms\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

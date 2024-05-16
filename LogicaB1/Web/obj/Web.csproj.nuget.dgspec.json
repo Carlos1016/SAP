@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\Web\\Web.csproj": {}
+    "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\Web\\Web.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\Web\\Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\Web\\Web.csproj",
         "projectName": "Web",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\Web\\Web.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\Web\\Web.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\Web\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\B1S.csproj": {}
+    "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\WinForms\\B1S.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\LogicaB1\\LogicaB1.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\LogicaB1\\LogicaB1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\LogicaB1\\LogicaB1.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\LogicaB1\\LogicaB1.csproj",
         "projectName": "LogicaB1",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\LogicaB1\\LogicaB1.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\LogicaB1\\LogicaB1.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\LogicaB1\\obj\\",
         "projectStyle": "PackageReference",
@@ -70,12 +70,12 @@
         }
       }
     },
-    "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\B1S.csproj": {
+    "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\WinForms\\B1S.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\B1S.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\WinForms\\B1S.csproj",
         "projectName": "B1S",
-        "projectPath": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\B1S.csproj",
+        "projectPath": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\WinForms\\B1S.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\WinForms\\obj\\",
         "projectStyle": "PackageReference",
@@ -94,8 +94,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\LogicaB1\\LogicaB1.csproj": {
-                "projectPath": "C:\\Users\\Administrator\\source\\repos\\Sap\\LogicaB1\\LogicaB1\\LogicaB1.csproj"
+              "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\LogicaB1\\LogicaB1.csproj": {
+                "projectPath": "C:\\Users\\Administrator\\source\\repos\\SAP\\LogicaB1\\LogicaB1\\LogicaB1.csproj"
               }
             }
           }

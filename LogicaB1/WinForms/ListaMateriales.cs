@@ -26,7 +26,7 @@ namespace B1S
 
         private void Buscar_Click(object sender, EventArgs e)
         {
-
+            //hola
             _sap.login();
 
             var x = _sap.Listamateriales(txtCodigo.Text.ToString());
